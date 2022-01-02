@@ -1,0 +1,1 @@
+其中的config.yaml文件，windowns的clash软件里面可找到
